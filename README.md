@@ -228,7 +228,7 @@ When you write results, please be aware of the following questions: Are they wha
 
 
 ## <img src="https://em-content.zobj.net/thumbs/120/whatsapp/326/envelope-with-arrow_1f4e9.png" width="30" /> 5. Project Submission Method and Grading
-**Submission:** LMS Assignment Submission Box will be opened in Week 9.
+**Submission:** LMS Assignment Submission Box will be opened in Week 10.
 
 **You Must Submit Two Files:**
 - **pdf file** (filename format: COMP90042_teamname.pdf): a report using the [ACL template](https://github.com/acl-org/acl-style-files).
@@ -260,7 +260,7 @@ The leaderboard submission is optional. There is no mark for the leaderboard.
 ## <img src="https://em-content.zobj.net/source/whatsapp/390/clipboard_1f4cb.png" width="30" /> 6. Peer Review 
 The peer review will start **from the 22nd of May to the 28th of May**. 
 
-The peer review procedure will be shared in Week 9.
+The peer review procedure will be shared in Week 10.
  
 
 
@@ -269,8 +269,10 @@ The peer review procedure will be shared in Week 9.
 ## <img src="https://em-content.zobj.net/source/skype/289/trophy_1f3c6.png" width="30" /> 7. Leaderboard
 
 The leaderboard submission is optional. There is no mark for the leaderboard.
-The Leaderboard link and Submission instruction will be announced on 28 April.
+The Leaderboard link and Submission instructions will be announced on 28 April.
 
+*28 April: [Leaderboard Link](https://www.codabench.org/competitions/7707/?secret_key=62a88bc5-d1ce-4514-8e4c-033cd61c90c7)
+The instructions can be found in the leaderboard - Submission Instructions!
 
 <br/>
 
