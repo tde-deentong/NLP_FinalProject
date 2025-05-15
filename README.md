@@ -31,7 +31,7 @@ The Important date for the Project can be summarised as follows:
 - **Project Group Release Date**: 22 April 2025 **([The Final Project Group Link](https://docs.google.com/spreadsheets/d/1Xl6P93WVibbnHOPlWTB_o6IGEkBeYDTKR5M4ZuONeV4/edit?usp=sharing))**
 <br/><code style="color:red">~~(ONLY IF YOU HAVE any group mates in prior, please submit Project Group EOI. **NOT COMPULSORY. Project Group EOI Due Date**: 20 April 2025)~~</code>
 - **Project Final Submission Due**:  19 May 2025 **(NO extension will be given less than 2 days before deadline)**
-- **Project Peer Review Due**:  28 May 2025 **(NO extension will be given less than 2 days before deadline)**
+- **Project  Due**:  28 May 2025 **(NO extension will be given less than 2 days before deadline)**
 
 All deadlines are **11:59 PM (AEST, Melbourne Time)**.
 <br/>
@@ -269,18 +269,18 @@ After the reviewing period has concluded, you will receive the reviews for your 
 These are the processes in detail:
 
 **Report Submission**
-Each team submits a report (if one of the team member submits, other members from the same team can see the submission).
-Deadline: **11:59pm Friday 19th May 2025**
+- Each team submits a report (if one of the team member submits, other members from the same team can see the submission).
+- Deadline: **11:59pm Friday 19th May 2025**
 
 **Peer Review - Part 1**
-Each student reviews 2 reports from other teams (randomly assigned). You are required to summarise the report, talk about the strengths and weaknesses (three comment sections). See [peer_review_instruction.pdf](https://github.com/drcarenhan/COMP90042_2025/blob/main/peer_review_instruction.pdf) for more details. Note that this constitutes the first part of the third assignment, and it is an individual task, and so you don't need to collaborate with your teammates to do the reviews (your teammates will receive their reports to review).
-Review start date: **9pm Wednesday 21st May 2025**
-Deadline: **11:59pm Sunday 25th May 2025**
+- Each student reviews 2 reports from other teams (randomly assigned). You are required to summarise the report, talk about the strengths and weaknesses (three comment sections). See [peer_review_instruction.pdf](https://github.com/drcarenhan/COMP90042_2025/blob/main/peer_review_instruction.pdf) for more details. Note that this constitutes the first part of the third assignment, and it is an individual task, and so you don't need to collaborate with your teammates to do the reviews (your teammates will receive their reports to review).
+- Review start date: **9pm Wednesday 21st May 2025**
+- Deadline: **11:59pm Sunday 25th May 2025**
 
 **Peer Review Scoring- Part 2**
-Each team receives a set of reviews for the team report. Each team should work together to score the reviews. See [peer-review-scoring.pdf](https://github.com/drcarenhan/COMP90042_2025/blob/main/peer-review-scoring.pdf) for more details. This is the second part of the third assignment, and it is a group task, as your team will need to distribute the reviews evenly among yourselves so that each review is scored by at least one member.
-Review scoring start date: **12am Monday 26th May 2025**
-Deadline: **11:59pm Wednesday 28th May 2025**
+- Each team receives a set of reviews for the team report. Each team should work together to score the reviews. See [peer-review-scoring.pdf](https://github.com/drcarenhan/COMP90042_2025/blob/main/peer-review-scoring.pdf) for more details. This is the second part of the third assignment, and it is a group task, as your team will need to distribute the reviews evenly among yourselves so that each review is scored by at least one member.
+- Review scoring start date: **12am Monday 26th May 2025**
+- Deadline: **11:59pm Wednesday 28th May 2025**
 
 
 <br/>
