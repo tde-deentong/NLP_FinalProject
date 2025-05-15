@@ -259,7 +259,9 @@ The leaderboard submission is optional. There is no mark for the leaderboard.
 
 
 ## <img src="https://em-content.zobj.net/source/whatsapp/390/clipboard_1f4cb.png" width="30" /> 6. Peer Review 
-**Peer Review is total of 8 Marks (This is different assessment - The project report and code submission are total of 35 marks) **
+**Peer Review is total of 8 Marks** 
+- This is different assessment from the assignment 3 - total of 35 marks (project report and code submission).
+- Please check [the assessment info from the subject handbook](https://handbook.unimelb.edu.au/subjects/comp90042/assessment)
 
 The peer review will start **from the 22nd of May to the 28th of May**. 
 
