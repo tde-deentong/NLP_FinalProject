@@ -31,8 +31,8 @@ The Important date for the Project can be summarised as follows:
 - **Project Group Release Date**: 22 April 2025 **([The Final Project Group Link](https://docs.google.com/spreadsheets/d/1Xl6P93WVibbnHOPlWTB_o6IGEkBeYDTKR5M4ZuONeV4/edit?usp=sharing))**
 <br/><code style="color:red">~~(ONLY IF YOU HAVE any group mates in prior, please submit Project Group EOI. **NOT COMPULSORY. Project Group EOI Due Date**: 20 April 2025)~~</code>
 - **Project Final Report/Code Submission Due**:  19 May 2025 **(NO extension will be given less than 2 days before deadline)**
-- **Peer Review - Part 1 Due**:  25 May 2025 **(NO extension)** The part1 starting date is 9PM Wednesday 21st May 2025
-- **Peer Review Scoring- Part 2 Due**:  28 May 2025 **(NO extension)** The part2 starting date is 12AM Monday 26th May 2025
+- **Peer Review - Part 1 Due**:  25 May 2025 **(NO extension)** Part1 start date: 9PM Wednesday 21st May 2025
+- **Peer Review Scoring- Part 2 Due**:  28 May 2025 **(NO extension)** Part2 start date: 12AM Monday 26th May 2025
 
 All deadlines are **11:59 PM (AEST, Melbourne Time)**.
 <br/>
