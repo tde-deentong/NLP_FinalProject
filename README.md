@@ -261,7 +261,26 @@ The leaderboard submission is optional. There is no mark for the leaderboard.
 The peer review will start **from the 22nd of May to the 28th of May**. 
 
 The peer review procedure will be shared in Week 10.
- 
+
+Several days after the project has finished, you will also **receive 2 reports to review (peer review part 1)**. 
+
+After the reviewing period has concluded, you will receive the reviews for your report, and you'll **need to score them (peer review part 2)**.
+
+These are the processes in detail:
+
+**Report Submission**
+Each team submits a report (if one of the team member submits, other members from the same team can see the submission).
+Deadline: **11:59pm Friday 19th May 2025**
+
+**Peer Review - Part 1**
+Each student reviews 2 reports from other teams (randomly assigned). You are required to summarise the report, talk about the strengths and weaknesses (three comment sections). See [peer_review_instruction.pdf](https://github.com/drcarenhan/COMP90042_2025/blob/main/peer_review_instruction.pdf) for more details. Note that this constitutes the first part of the third assignment, and it is an individual task, and so you don't need to collaborate with your teammates to do the reviews (your teammates will receive their reports to review).
+Review start date: **9pm Wednesday 21st May 2025**
+Deadline: **11:59pm Sunday 25th May 2025**
+
+**Peer Review Scoring- Part 2**
+Each team receives a set of reviews for the team report. Each team should work together to score the reviews. See [peer-review-scoring.pdf](https://github.com/drcarenhan/COMP90042_2025/blob/main/peer-review-scoring.pdf) for more details. This is the second part of the third assignment, and it is a group task, as your team will need to distribute the reviews evenly among yourselves so that each review is scored by at least one member.
+Review scoring start date: **12am Monday 26th May 2025**
+Deadline: **11:59pm Wednesday 28th May 2025**
 
 
 <br/>
