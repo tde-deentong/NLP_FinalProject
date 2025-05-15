@@ -275,7 +275,7 @@ These are the processes in detail:
 
 **Report Submission**
 - Each team submits a report (if one of the team member submits, other members from the same team can see the submission).
-- Deadline: **11:59pm Friday 19th May 2025**
+- Deadline: **11:59pm Monday 19th May 2025**
 
 **Peer Review - Part 1**
 - Each student reviews 2 reports from other teams (randomly assigned). You are required to summarise the report, talk about the strengths and weaknesses (three comment sections). See [peer_review_instruction.pdf](https://github.com/drcarenhan/COMP90042_2025/blob/main/peer_review_instruction.pdf) for more details. Note that this constitutes the first part of the third assignment, and it is an individual task, and so you don't need to collaborate with your teammates to do the reviews (your teammates will receive their reports to review).
